@@ -1,0 +1,5 @@
+.important {
+    text-align: center;
+    background-color: var(--green);
+    padding: 5px;
+}

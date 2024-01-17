@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    position: relative;
+    /* top: 10px; */
+    /* bottom: 0px; */
+    height: 90px;
+    /* background-color: #fff; */
+    border-top: 2px solid var(--secondaryColor) ;
+}
+.footerLeft {
+    flex: 1;   
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.footerRight {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
